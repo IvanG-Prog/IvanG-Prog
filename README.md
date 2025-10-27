@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/014da7ea-ac9e-4083-99f1-47806f47843a" alt="WhatsApp Image" width="400"/>
+  <img src="https://github.com/user-attachments/assets/014da7ea-ac9e-4083-99f1-47806f47843a" alt="WhatsApp Image" width="500"/>
 </p>
   <a href="https://github.com/TuNombreDeUsuario">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&color=0077b6&size=30&center=true&vCenter=true&width=600&height=100&duration=3000&lines=Hello%2C+I'm+Ivan+Garcia.;Backend+Developer.;Welcome+to+my+GitHub+profile%21" alt="Texto que se escribe: Hello, I'm Ivan Garcia.; Backend Developer.; Welcome to my GitHub profile!">
